@@ -34,3 +34,12 @@
 - **Для запуска нужна виртуальная машина java**
 
 <br /><br />
+
+
+<img align="left" src="https://user-images.githubusercontent.com/65415371/124740780-04a18900-df13-11eb-8a53-ad66e031b55f.png" width="50px" />
+
+## Developing
+
+Для реализации был выбран стек: java + selenium + tg_bot_api
+
+<br /><br />
