@@ -7,7 +7,7 @@
 
 <img align="left" src="https://user-images.githubusercontent.com/65415371/124739629-f43cde80-df11-11eb-9033-c5d1d7194f03.png" width="50px" />
 
-## Быстрый старт
+## Quick start
 <br />
 <br />
 
