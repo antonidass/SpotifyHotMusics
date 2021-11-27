@@ -1,4 +1,4 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/65415371/124739522-d8393d00-df11-11eb-9741-820955887d21.png" width="1000px" /></p>
+<p align="center"><img src="preview/preview_pic.png" width="1000px" /></p>
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 <a href='https://posthog.com/contributors'><img src='https://img.shields.io/badge/all_contributors-187-orange.svg?style=flat-square' /></a>
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
